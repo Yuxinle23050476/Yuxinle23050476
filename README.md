@@ -40,7 +40,7 @@ In this course, I hope to:
 ## 🌐 GitHub Profile  
 
 You can view my personalized GitHub profile here:  
-👉 [https://github.com/yuxinle](https://github.com/yuxinle)
+👉 [https://github.com/yuxinle23050476](https://github.com/yuxinle23050476)
 
 ---
 
