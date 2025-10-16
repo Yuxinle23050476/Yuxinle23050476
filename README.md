@@ -32,7 +32,7 @@ In this course, I hope to:
 
 ## 🖼️ My Image  
 
-![This is me](image.jpg)  
+![This is me](IMG_7337.PNG.JPG)  
 *(An image representing myself — uploaded as part of Tutorial 1)*  
 
 ---
